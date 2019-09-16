@@ -1,0 +1,153 @@
+
+		body{
+
+			background-image: url(mountains.png);
+			background-size: 100% 720px;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+		}
+
+		.icon{
+			float:center;
+		}
+
+		.dock{
+			width: 680px;
+			height: 50px;
+			padding: 5px;
+			bottom: 0px;
+			margin-left: 24%;
+			margin-right: 20%;
+			position: fixed;
+			background-color: rgba(255, 255, 255, 0.6);
+			border-radius: 10px 10px 1px 1px;
+			-webkit-filter: blur(0.5px);
+			-webkit-animation-delay: 1s;
+		}
+		.msg img{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#2196f3, lightblue);
+			border-radius: 10px;
+			position: absolute;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
+		.contacts img{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#FFEB3B, #FF9800);
+			border-radius: 10px;
+			position: fixed;
+			margin-left: 70px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
+		.team img
+		{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(lightblue, #2196f3);
+			border-radius: 10px;
+			position: fixed;
+			margin-left: 140px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
+		.services img
+		{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#E8E835, lightblue);
+			border-radius: 10px;
+			position: fixed;
+			margin-left: 210px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
+		.about img
+		{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#D1AA4D, orange);
+			border-radius: 10px;
+			position: absolute;
+			margin-left: 280px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
+		.blog img
+		{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#E835AF, #F2BBE1);
+			border-radius: 10px;
+			position: absolute;
+			margin-left: 350px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}	
+		.calculator img
+		{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#B08335, #F2CB88););
+			border-radius: 10px;
+			position: absolute;
+			margin-left: 420px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
+		.gr1 img
+		{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#BAF274, lightblue);
+			border-radius: 10px;
+			position: absolute;
+			margin-left: 490px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
+		.gr2 img
+		{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#EB673F, yellow);
+			border-radius: 10px;
+			position: absolute;
+			margin-left: 560px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
+		.gr3 img
+		{
+			width: 30px;
+			height: 30px;
+			bottom: 5px;
+			padding: 10px;
+			background: linear-gradient(#36D16F, #F5F533);
+			border-radius: 10px;
+			position: absolute;
+			margin-left: 630px;
+			-webkit-animation-delay: 1s;
+			cursor: pointer;
+		}
